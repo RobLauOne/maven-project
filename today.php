@@ -1,5 +1,5 @@
 <?php
 
-echo "shit";
+echo "mail.laurie.cc:25";
 
 ?>
